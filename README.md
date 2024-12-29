@@ -1,6 +1,4 @@
-## ASK - Conversational ChatBot
-
-This a multisearch agent RAG.
+## Generative AI
 
 ### Topics
 - Diffusion Models
