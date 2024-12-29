@@ -2,5 +2,6 @@
 
 This a multisearch agent RAG.
 
-### Tools
-- Langchain
+### Topics
+- Diffusion Models
+- LangChain
