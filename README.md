@@ -1,6 +1,6 @@
 ## Generative AI
 
 ### Topics
-- Large Language Models
+- Large Language Models (LLMs)
 - Diffusion Models
 - LangChain
