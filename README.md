@@ -1,10 +1,10 @@
 ## Generative AI - For Beginners
 
 ### Topics
+- Image Generation from Prompts
+- Text Generation
 - Large Language Models (LLMs)
 - Diffusion Models
-- LangChain
-
 
 ### Projects
 - [Text-to-image generation using Stable Diffusion](Diffusion_models/stable_diffusion.py)
