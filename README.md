@@ -7,8 +7,8 @@
 
 ### Projects
 - [Text-to-image genration using Stable Diffusion](Diffusion_models/stable_diffusion.py)
-- [Synthetic image genration using GAN](GAN/cifar10.py)
-- [Email classification using BERT](BERT/spam_classification.py)
+- [Synthetic image genration using Generative Adversarial Network (GAN)](GAN/cifar10.py)
+- [Email classification using Bidirectional Encoder Representations from Transformers (BERT)](BERT/spam_classification.py)
 
 
 ### Tech Stack
