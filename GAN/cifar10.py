@@ -12,7 +12,7 @@ batch_size = 128
 num_epochs = 20
 learning_rate = 0.0002
 image_size = 32
-channels = 3
+channels = 3   # as images are RGB
 
 transform = transforms.Compose([
     transforms.ToTensor(),
