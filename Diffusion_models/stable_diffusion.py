@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 model = keras_cv.models.StableDiffusion(img_width=512, img_height=512)
 
-images = model.text_to_image("photograph of an astronaut riding a horse", batch_size=3)
+images = model.text_to_image("Lion as the king of the forest", batch_size=3)
 
 
 def plot_images(images):
