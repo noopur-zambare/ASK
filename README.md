@@ -5,6 +5,7 @@
 - Diffusion Models
 - LangChain
 
+
 ### Projects
 - [Text-to-image genration using Stable Diffusion](Diffusion_models/stable_diffusion.py)
 - [Synthetic image genration using Generative Adversarial Network (GAN)](GAN/cifar10.py)

@@ -25,7 +25,6 @@ def get_sentence_embeding(sentences):
     preprocessed_text = bert_preprocess(sentences)
     return bert_encoder(preprocessed_text)['pooled_output']
 
-# Building model
 # Bert layers
 text_input = tf.keras.layers.Input(shape=(), dtype=tf.string, name='text')
 preprocessed_text = bert_preprocess(text_input)
@@ -49,7 +48,6 @@ model.fit(X_train, y_train, epochs=10)
 
 # Model evaluation
 model.evaluate(X_test, y_test)
-
 
 # Testing
 reviews = [

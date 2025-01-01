@@ -7,7 +7,6 @@ from torch.utils.data import DataLoader
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Hyperparameters
 latent_dim = 100
 batch_size = 128
 num_epochs = 20
@@ -15,7 +14,6 @@ learning_rate = 0.0002
 image_size = 32
 channels = 3
 
-# Data Loading and Transformation
 transform = transforms.Compose([
     transforms.ToTensor(),
     transforms.Normalize((0.5,), (0.5,))

@@ -10,7 +10,6 @@ model = keras_cv.models.StableDiffusion(img_width=512, img_height=512)
 
 images = model.text_to_image("Lion as the king of the forest", batch_size=3)
 
-
 def plot_images(images):
     plt.figure(figsize=(20, 20))
     for i in range(len(images)):
