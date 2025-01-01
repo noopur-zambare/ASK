@@ -5,6 +5,11 @@
 - Diffusion Models
 - LangChain
 
+### Projects
+- [Text-to-image genration using Stable Diffusion](Diffusion_models/stable_diffusion.py)
+- [Synthetic image genration using GAN](GAN/cifar10.py)
+- [Email classification using BERT](BERT/spam_classification.py)
+
 
 ### Tech Stack
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
